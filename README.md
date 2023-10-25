@@ -4,7 +4,7 @@ To use this bot:
 
 1. Place blep images in a directory named img/
 2. Place post text to accompany each image in directory txt/ .
-   The post text filename format must be: <imagefilename>.txt . 
+   The post text filename format must be: imagefilename.txt . 
    Example: image file img/mypic.jpg will be posted with text from txt/mypic.jpg.txt
 4. Place authentication token in file 'token.secret'
 5. Edit blepbot.py with server name if not using botsin.space
