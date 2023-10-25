@@ -12,5 +12,6 @@ To use this bot:
 7. Schedule run_bot.bash to run twice a day (no arguments)
 
 For a walkthrough, see this blog post: https://rdbms-insight.com/wp/2023/creating-a-mastodon-bot-in-python/
+
 To get a Mastodon account and/or to get authentication tokens for the account, see this blog post:
 https://shkspr.mobi/blog/2018/08/easy-guide-to-building-mastodon-bots/
